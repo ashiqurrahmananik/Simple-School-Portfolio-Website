@@ -1,0 +1,72 @@
+ .title_down_space
+ {
+ 	margin-bottom: 60px;
+ }
+ body
+ {
+    color: black;
+ }
+/*header start*/
+.color-header
+{
+	background-color: #ffffff;
+}
+nav a img
+{
+	width: 80px;
+}
+
+/*header end*/
+
+/**slider start**/
+
+/**slider end**/
+
+/*about_us start*/
+.about_us
+{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+.about_us_first
+{
+	margin-top: 70px;
+}
+
+/*about_us end*/
+/*COURSE_CATEGORIESS start*/
+.COURSE_CATEGORIESS
+{
+	background-color: #f9f9f9;
+	padding-top: 150px;
+	padding-bottom: 150px;
+}
+.title
+{
+	margin-bottom: 30px;
+}
+
+
+
+
+/*COURSE_CATEGORIESS end*/
+/*notice start*/
+.notice_board
+{
+	margin-top: 150px;
+	margin-bottom: 150px;
+}
+/*notice end*/
+
+
+/**news start*/
+
+/**news end*/
+
+/**contact start**/
+.contact
+{
+    margin-top: 100px;
+}
+
+/**contact end**/
